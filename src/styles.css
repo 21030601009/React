@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.card {
+  width: 15vw;
+  margin: 36px;
+  text-decoration: none;
+}
+.box {
+  display: flex;
+  flex-wrap: wrap;
+}
+.main {
+  width: 98vw;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.addForm {
+  padding: 50px;
+  justify-content: space-around;
+  background-color: rgba(128, 202, 239, 0.553);
+  border-radius: 10%;
+  box-shadow: 5px 5px 5px 5px rgb(158, 156, 156);
+}
+.addForm td {
+  padding: 5px;
+}
+.button {
+  margin-top: 15px;
+}
